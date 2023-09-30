@@ -6,6 +6,58 @@
 <title>Praneta</title>
 <link rel="stylesheet" href="style1.css">
 </head>
+  <style>
+    h1{
+	color: #a400ff;
+	font-size:350%;
+	font-weight:700;
+}
+body{
+	background:#e4b7d599;
+}
+header{
+	text-align:center;
+	background:#cfb1df;
+	margin:1%;
+	padding:2%;
+}
+nav{
+	font-variant:small-caps;
+	font-size:140%;
+}
+a{
+	color:#922a2a;
+}
+section{
+	display:inline-block;
+	width:30%;
+	/*height:250px;
+	overflow:scroll;*/
+	border:2px;
+	border-style:double;
+	border-color:#37024dcc;
+	float:left;
+	padding:0.70%;
+	margin-right:0.60%;
+	background:#e06fba99;
+	font-size:120%;
+}
+progress{
+	width:85%;
+}
+details{
+	font-family:Courier new;
+}
+summary{
+	font-family:normal;
+}
+footer{
+font-style:italic;
+	clear:both;
+	
+}
+
+  </style>
 <body>
 <header>
 <h1>Praneta  Binani</h1>
